@@ -118,7 +118,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["suporte.mvmsti.com.br"];
-pub const RS_PUB_KEY: &str = "8s16zPoD0WXkR2dQA5EH+TG2em7MiF7pMu1Inereu6M=";
+pub constante RS_PUB_KEY: &str="D0LISxuZvBXA+XvUTDRZnYKTAsG4sfDtLeBbRvhAXZo=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
